@@ -1,4 +1,4 @@
-# lamat2020
+# LAMAT 2020
 LAMAT 2020 at UC Santa Cruz
 
 These web-pages will organize materials and activities related
