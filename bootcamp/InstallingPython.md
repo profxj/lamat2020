@@ -22,6 +22,9 @@ They offer support for nearly every platform.
 We hope that your computing is either Linux or
 MacOS.  If you are using Windows, it is possible
 you will struggle with some aspects of the computing.
+At the least, we recommend you install 
+[Cygwin](https://www.cygwin.com/) which provides
+some functionality similar to Unix.
 
 From the webpage above, you should be able to 
 download and install Python 3.7.  Be sure to follow 
